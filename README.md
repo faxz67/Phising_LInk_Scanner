@@ -31,7 +31,7 @@ The scanner evaluates a URL based on:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/phishing-link-scanner.git
+git clone https://github.com/faxz67/phishing-link-scanner.git
 cd phishing-link-scanner
 python -m venv venv
 source venv/bin/activate    # or venv\Scripts\activate on Windows
